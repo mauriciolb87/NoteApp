@@ -1,0 +1,14 @@
+ordem
+
+1 Note
+2 NoteDao
+3 NoteDatabase
+4 NoteRepository
+5 NoteViewModel
+(layout) mainActivity
+(layout) note_res_item
+6 NoteRVAdapter
+7 MainActi
+8 AddEditNoteActivity
+
+https://www.youtube.com/watch?v=D2F5t-phP04
